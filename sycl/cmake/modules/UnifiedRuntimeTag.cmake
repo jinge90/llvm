@@ -1,7 +1,8 @@
-# commit a172cde4bc2857dcf74b0b2907a5b0f90566e808 (HEAD, origin/main, origin/HEAD)
-# Merge: 1851eff47b0a cde0d4c820b0
-# Author: Martin Grant <martin.morrisongrant@codeplay.com>
-# Date:   Thu Dec 5 12:29:44 2024 +0000
-#   Merge pull request #2249 from zhaomaosu/use-device-usm-for-rtl-data
-#   [DeviceASAN] Use device usm to sync asan runtime data instead of shared usm
-set(UNIFIED_RUNTIME_TAG a172cde4bc2857dcf74b0b2907a5b0f90566e808)
+# commit b074893e854d28141cd67bc5935ed87e47eb3bb6
+# Merge: 71a5eab0 128ea023
+# Author: Ross Brunton <ross@codeplay.com>
+# Date:   Tue Jan 21 11:21:50 2025 +0000
+#     Merge pull request #2539 from RossBrunton/ross/specconst
+#
+#     Added `DEVICE_INFO_PROGRAM_SET_SPECIALIZATION_CONSTANTS`
+set(UNIFIED_RUNTIME_TAG b074893e854d28141cd67bc5935ed87e47eb3bb6)
